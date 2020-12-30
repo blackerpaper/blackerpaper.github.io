@@ -9827,7 +9827,7 @@ Ri:function(a){var s=0,r=P.U(t.a7),q,p,o,n
 var $async$Ri=P.Q(function(b,c){if(b===1)return P.R(c,r)
 while(true)switch(s){case 0:p=t.X
 s=3
-return P.a1(G.tF(P.kG(C.bX,"https://min-api.cryptocompare.com/data/top/mktcapfull?tsym=USD&limit=100&page="+a,C.Y,!1),P.ad(["Accept","application/json"],p,p)),$async$Ri)
+return P.a1(G.tF(P.kG(C.bX,"https://jurhat.com/data/top/mktcapfull?tsym=USD&limit=100&page="+a,C.Y,!1),P.ad(["Accept","application/json"],p,p)),$async$Ri)
 case 3:o=c
 n=C.au.ci(0,B.oN(U.oG(o.e).c.a.h(0,"charset")).ci(0,o.x))
 q=new Y.FW(V.cU(n,"Message"),V.mn(n,"Type"),U.jd(n,"MetaData",t.iR),U.aqf(n,"SponsoredData",t.Md),U.aqf(n,"Data",t.Yv),V.aAl(n,"HasWarning"))
